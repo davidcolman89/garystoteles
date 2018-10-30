@@ -1,7 +1,7 @@
 # API Frases de Garystóteles
 **Garystóteles, el filósofo que quiso saber y conocerlo todo (troll alert)**
 
-![alt text](https://github.com/davidcolman89/garystoteles/garystoteles.jpg)
+![alt text](https://github.com/davidcolman89/garystoteles/blob/master/garystoteles.jpg)
 
 
 Garystóteles escribió cerca de 200 test (de los cuales solo han pasado 31) 
@@ -22,6 +22,6 @@ forman parte del sentido común de muchas personas.
 
 Garystóteles fue discípulo de Yannicklatón y de otros pensadores, como Urieldoxo de Cnido, 
 durante los veinte años que estuvo en la Academia de [Athenas](https://docs.aws.amazon.com/athena/latest/ug/what-is.html).
-Fue maestro de Alexandro Pappier en el Reino de MELIdonia.​ 
+Fue maestro de Alexandro Pappier en el Reino de MELIdonia. 
 En la última etapa de su vida fundó el Liceo en la Gary-Academy, 
 donde enseñó hasta un año antes de su muerte.
