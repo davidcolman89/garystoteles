@@ -1,0 +1,9 @@
+version: '3'
+services:
+  app:
+    build: src/api
+    ports:
+      - 9090:9090
+    command: go run main.go
+    volumes:
+    - ./src/api:/app

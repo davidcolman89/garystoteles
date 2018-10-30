@@ -1,0 +1,6 @@
+{
+  "serverAddr":":9090",
+  "host":"",
+  "port":"",
+  "network":"tcp"
+}
