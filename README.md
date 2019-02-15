@@ -1,4 +1,4 @@
-# API Frases de Garystóteles
+# API Frases de Garystóteles:
 **Garystóteles, el filósofo que quiso saber y conocerlo todo (troll alert)**
 
 ![alt text](https://github.com/davidcolman89/garystoteles/blob/master/garystoteles_1.jpg)
